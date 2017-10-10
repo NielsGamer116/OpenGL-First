@@ -18,6 +18,9 @@ public class Main {
         while(true){
 
             print(5);
+            if(window  > 0)
+                break;
+            //second thing
         }
         //adding motion
     }
