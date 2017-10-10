@@ -15,7 +15,11 @@ public class Main {
         GLFW.glfwMakeContextCurrent(window);
         println(window);
         GLFW.glfwShowWindow(window);
-        while(true){}
+        while(true){
+
+            print(5);
+        }
+        //adding motion
     }
 
 }
