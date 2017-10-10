@@ -17,7 +17,7 @@ public class Main {
         GLFW.glfwShowWindow(window);
         while(true){
 
-            //add
+            //adding
             print(5);
             if(window  > 0)
                 break;
